@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+paddlepaddle==2.6.2
+paddleocr==2.9.1
+pdf2image
+Pillow
+opencv-python
+python-multipart
+aiofiles

@@ -1,0 +1,14 @@
+venv/
+.venv/
+ocrenv/
+__pycache__/
+.paddleocr/
+*.pyc
+*.pyo
+*.pyd
+env/
+build/
+dist/
+.DS_Store
+.vscode/
+/.idea/
