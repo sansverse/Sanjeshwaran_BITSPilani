@@ -213,7 +213,7 @@ Your API is designed to match the competition rubric:
 | Component   | Technology                          |
 | ----------- | ----------------------------------- |
 | OCR         | PaddleOCR (PP-OCRv4)                |
-| LLM         | Groq — llama-3.3-70b-versatile      |
+| LLM         | meta-llama/llama-4-scout-17b-16e-instruct      |
 | Backend     | FastAPI                             |
 | Environment | Python 3.10                         |
 | Deployment  | ngrok (for testing) & cloud options |
@@ -241,4 +241,5 @@ Email: *sanjeshwaran26@gmail.com*
 GitHub: *@sansverse*
 
 ---
+
 
