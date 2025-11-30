@@ -1,10 +1,9 @@
 fastapi
 uvicorn
+python-dotenv
 requests
-paddlepaddle==2.6.2
-paddleocr==2.9.1
-pdf2image
-Pillow
+paddleocr
+pymupdf
+groq
 opencv-python
-python-multipart
-aiofiles
+numpy

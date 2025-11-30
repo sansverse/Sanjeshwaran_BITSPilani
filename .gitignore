@@ -12,3 +12,6 @@ dist/
 .DS_Store
 .vscode/
 /.idea/
+
+# Local environment variables (do NOT commit)
+.env
